@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我的第一个网页</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+    ">
+      <img src="https://ts1.cn.mm.bing.net/th/id/R-C.2d96e4f907c3339864d35cf3028f8124?rik=tLFgrOaU1%2bSBrQ&riu=http%3a%2f%2fnews.yxrb.net%2fuploadfile%2f2020%2f0118%2f20200118094219209.jpg&ehk=ZDdg%2bGNXH%2beKq2GgE0M01MsCkFISnA%2f1tZGomwb5UGg%3d&risl=&pid=ImgRaw&r=0"alt="相阳"width="80px"height="80px">
+    </div>
+    <div style="
+    text-align: center;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;
+    ">
+    <p>最好的生活方式</p>
+    <p>是和一群志同道合的人</p>
+    <p>一起奔跑在理想的路上</p>
+    <p>回头有一路的故事</p>
+    <p>低头有坚定的脚步</p>
+    <p>抬头有清晰的远方</p>
+    <p>               </p>
+    <p>----------------------------------昊扬团队</p>
+    </div>
+    <div style="
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+    font-size: 12px;
+    ">
+    <p>大连昊扬网络推广有限公司</p>
+    <a href="https://work.weixin.qq.com/kfid/kfce229d1379471a332">客服链接</a>
+    </div>
+  </body>
+</html>
